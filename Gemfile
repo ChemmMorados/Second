@@ -27,12 +27,18 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap', '4.0.0.alpha3'
+
+source 'https://rails-assets.org' do
+  gem 'rails-assets-tether', '~> 1.3.3'
+end
+
 gem 'jquery-rails'
 gem 'friendly_id', '~> 5.2.4'
 gem 'devise'
 gem 'will_paginate', '~> 3.1.0'
 gem 'annotate'
 gem 'acts-as-taggable-on', '~> 6.0'
+
 # Note: You MUST use 5.0.0 or greater for Rails 4.0+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

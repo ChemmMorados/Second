@@ -1,0 +1,15 @@
+=> [32m#<Post:0x000055da54d5ae10[0m
+ id: [1;34m11[0m,
+ title: [31m[1;31m"[0m[31mSecond try bro[1;31m"[0m[31m[0m,
+ body:
+  [31m[1;31m"[0m[31m<p style=[1;35m\"[0m[31mbox-sizing: border-box; margin: 0px 0px 1.1em; padding: 0px; border: 0px; font-size: 19px; line-height: 32.3px; font-family: Lato, sans-serif; color: #444444; background-color: #ffffff;[1;35m\"[0m[31m>Schlitz flannel you probably haven't heard of them crucifix, DIY jean shorts taiyaki gentrify farm-to-table chartreuse small batch. Fingerstache godard waistcoat quinoa cray. Edison bulb everyday carry sriracha schlitz, letterpress swag YOLO aesthetic. Authentic pickled lomo normcore, locavore air plant butcher chillwave brunch fixie occupy green juice fanny pack cray. Williamsburg man bun chartreuse mixtape taiyaki chillwave, lomo pinterest man braid vape enamel pin gastropub. Paleo chicharrones etsy, franzen art party hell of affogato butcher street art kinfolk asymmetrical chambray. Coloring book hell of keytar 8-bit retro pabst art party cardigan.</p>[1;35m\r[0m[31m[1;35m\n[0m[31m<p>&nbsp;</p>[1;31m"[0m[31m[0m,
+ description:
+  [31m[1;31m"[0m[31mPinterest kombucha cliche air plant. Vegan hashtag vice jianbing, everyday carry pickled glossier cray woke organic la croix tote bag kale chips etsy.[1;31m"[0m[31m[0m,
+ slug: [31m[1;31m"[0m[31msecond-try-bro[1;31m"[0m[31m[0m,
+ created_at: [1;34;4mSun[0m, [1;34m28[0m [1;34;4mApr[0m [1;34m2019[0m [1;34m11[0m:[1;34m27[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+ updated_at: [1;34;4mSun[0m, [1;34m28[0m [1;34;4mApr[0m [1;34m2019[0m [1;34m12[0m:[1;34m07[0m:[1;34m07[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+ banner_image_url:
+  [31m[1;31m"[0m[31mhttps://images.pexels.com/photos/2174676/pexels-photo-2174676.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940[1;31m"[0m[31m[0m,
+ author_id: [1;34m2[0m,
+ published: [1;36mtrue[0m,
+ published_at: [1;34;4mSun[0m, [1;34m28[0m [1;34;4mApr[0m [1;34m2019[0m [1;34m12[0m:[1;34m07[0m:[1;34m07[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m
